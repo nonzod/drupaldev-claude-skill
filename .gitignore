@@ -1,0 +1,17 @@
+# Test module (created only for testing purposes)
+test_skill_block/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
